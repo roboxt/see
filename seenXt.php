@@ -1,6 +1,6 @@
 <?php 
 
-define('BOT_TOKEN','295907110:AAEjfbmkw_jULgc_R3PlPJpVmtn9aXnvosk');
+define('BOT_TOKEN','Api-token');
 define('API_TELEGRAM','https://api.telegram.org/bot'.BOT_TOKEN.'/');
 
 $channel = '@xt_robo';
